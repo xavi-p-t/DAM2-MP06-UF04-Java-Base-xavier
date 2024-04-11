@@ -40,3 +40,5 @@ build/
 
 data/models/*.bin
 data/output/*.pdf
+
+.gradle
